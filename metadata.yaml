@@ -1,0 +1,29 @@
+_repo: La-fee-triunfante-en-quatro-autos--13-Celebrados-en-Mallorca-por-el-Santo-Oficio-de-la-Inquis__33227
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garau, Francisco
+    birthdate: 1640
+    deathdate: 1701
+    gutenberg_agent_id: '36275'
+    url: http://www.gutenberg.org/2009/agents/36275
+description: ''
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33227'
+language: es
+publication_note: '1691'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inquisition -- Spain -- Majorca'
+- !lcc 'BX'
+title: "La fee triunfante en quatro autos\r\nCelebrados en Mallorca por el Santo Oficio\
+  \ de la Inquisición en que han salido ochenta y ocho reos, y de treinta y siete\
+  \ relajados sólo hubo tres pertinaces."
+url: http://www.gutenberg.org/ebooks/33227
